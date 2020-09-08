@@ -4,22 +4,22 @@
     "occupation": "Mern Stack Web Developer",
     "description": "Node js back end developer & react js Developer",
     "image": "myimg.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "im Mern stack web developer connecting front end with react js and server side api's with node js , express js and Mongodb",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "ahmedibrahimhassan654@gmail.com",
+    "phone": "002 01065619208",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "mahlya 5 alhay alawal ",
+      "city": "cairo",
+      "state": "Egypt",
+      "zip": "11828"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://ahmedibrahim-portofolio.netlify.app/",
+    "resumedownload": "https://resume.io/r/1xMu5muad",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/ahmed.ibrahem.906/",
         "className": "fa fa-facebook"
       },
       {
